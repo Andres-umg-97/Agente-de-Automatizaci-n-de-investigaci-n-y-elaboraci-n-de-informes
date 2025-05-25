@@ -1,0 +1,14 @@
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\bin\Debug\Agente de Automatización de investigación.exe.config
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\bin\Debug\Agente de Automatización de investigación.exe
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\bin\Debug\Agente de Automatización de investigación.pdb
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\obj\Debug\Agente de Automatización de investigación.csproj.AssemblyReference.cache
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\obj\Debug\Agente de Automatización de investigación.csproj.ResolveComReference.cache
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\obj\Debug\Agente_de_Automatización_de_investigación.Form1.resources
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\obj\Debug\Agente_de_Automatización_de_investigación.Properties.Resources.resources
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\obj\Debug\Agente de Automatización de investigación.csproj.GenerateResource.cache
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\obj\Debug\Agente de Automatización de investigación.csproj.CoreCompileInputs.cache
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\obj\Debug\Agente d.13CF9125.Up2Date
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\obj\Debug\Agente de Automatización de investigación.exe
+C:\Users\kai85\OneDrive\Desktop\Agente de Automatización de investigación\Agente de Automatización de investigación\obj\Debug\Agente de Automatización de investigación.pdb
